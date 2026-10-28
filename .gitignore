@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.coverage
+htmlcov/
+*.pyc
+*.p
+*.pkl
+*.pickle
+*.joblib
+.env
+outputs/
+reports/
+dashboard/
+synthetic_demo.p
