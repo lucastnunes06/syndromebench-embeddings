@@ -1,5 +1,7 @@
 # SyndromeBench
 
+> **Estado do repositório:** publicação em andamento. O pipeline completo ainda não está disponível neste repositório. Alguns módulos, testes e o workflow de CI estão pendentes de envio; os comandos abaixo só funcionarão após a conclusão dessa publicação.
+
 **Estudo de classificação de síndromes genéticas a partir de embeddings de imagens.**
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB)](requirements.txt) [![Tests](https://github.com/lucastnunes06/syndromebench-embeddings/actions/workflows/ci.yml/badge.svg)](https://github.com/lucastnunes06/syndromebench-embeddings/actions/workflows/ci.yml) [![Status](https://img.shields.io/badge/Status-estudo%20experimental-6B7280)](#limites-e-uso-responsavel)
